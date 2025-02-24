@@ -1,0 +1,12 @@
+C:\Users\hp\Source\Repos\CustomerManagementProject\CustomerManagementSolution\CustomerManagement.Domain\bin\Debug\net6.0\CustomerManagement.Domain.deps.json
+C:\Users\hp\Source\Repos\CustomerManagementProject\CustomerManagementSolution\CustomerManagement.Domain\bin\Debug\net6.0\CustomerManagement.Domain.dll
+C:\Users\hp\Source\Repos\CustomerManagementProject\CustomerManagementSolution\CustomerManagement.Domain\bin\Debug\net6.0\CustomerManagement.Domain.pdb
+C:\Users\hp\Source\Repos\CustomerManagementProject\CustomerManagementSolution\CustomerManagement.Domain\obj\Debug\net6.0\CustomerManagement.Domain.csproj.AssemblyReference.cache
+C:\Users\hp\Source\Repos\CustomerManagementProject\CustomerManagementSolution\CustomerManagement.Domain\obj\Debug\net6.0\CustomerManagement.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hp\Source\Repos\CustomerManagementProject\CustomerManagementSolution\CustomerManagement.Domain\obj\Debug\net6.0\CustomerManagement.Domain.AssemblyInfoInputs.cache
+C:\Users\hp\Source\Repos\CustomerManagementProject\CustomerManagementSolution\CustomerManagement.Domain\obj\Debug\net6.0\CustomerManagement.Domain.AssemblyInfo.cs
+C:\Users\hp\Source\Repos\CustomerManagementProject\CustomerManagementSolution\CustomerManagement.Domain\obj\Debug\net6.0\CustomerManagement.Domain.csproj.CoreCompileInputs.cache
+C:\Users\hp\Source\Repos\CustomerManagementProject\CustomerManagementSolution\CustomerManagement.Domain\obj\Debug\net6.0\CustomerManagement.Domain.dll
+C:\Users\hp\Source\Repos\CustomerManagementProject\CustomerManagementSolution\CustomerManagement.Domain\obj\Debug\net6.0\refint\CustomerManagement.Domain.dll
+C:\Users\hp\Source\Repos\CustomerManagementProject\CustomerManagementSolution\CustomerManagement.Domain\obj\Debug\net6.0\CustomerManagement.Domain.pdb
+C:\Users\hp\Source\Repos\CustomerManagementProject\CustomerManagementSolution\CustomerManagement.Domain\obj\Debug\net6.0\ref\CustomerManagement.Domain.dll
